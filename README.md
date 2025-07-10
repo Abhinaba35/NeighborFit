@@ -7,9 +7,9 @@
 ## 🔗 Live Links
 
 - 🚀 **Frontend (Vercel):** [https://neighbor-fit-three.vercel.app/](https://neighbor-fit-three.vercel.app/)
-- 🛠️ **Backend (Render):** [https://neighborfit-vu7z.onrender.com](https://neighborfit-vu7z.onrender.com)
+- 🛠️ **Backend (Render):** [https://neighborfit-vu7z.onrender.com/api](https://neighborfit-vu7z.onrender.com/api)
 - 🧑‍💻 **GitHub Repo:** [https://github.com/Abhinaba35/NeighborFit](https://github.com/Abhinaba35/NeighborFit)
-
+  
 ---
 
 ## ✨ Features
