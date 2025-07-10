@@ -17,9 +17,9 @@
 - 🔐 JWT Authentication (Login/Register)
 - 🌇 Explore Indian Cities with ratings
 - 📄 Detailed city info by section (Safety, Transport, etc.)
-- 💬 Review system for logged-in users
+- 💬 Review system for logged-in users (Coming Soon!)
 - 🧑‍💼 Admin panel to add/manage cities
-- 🧠 AI Chatbot (Coming Soon!)
+- 🧠 AI Chatbot 
 - 🖼️ Cloudinary image upload (Coming Soon)
 
 ---
